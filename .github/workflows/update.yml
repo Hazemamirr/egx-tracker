@@ -1,0 +1,60 @@
+name: Update EGX data
+
+on:
+  schedule:
+    # EGX trades Sun-Thu and closes ~14:30 Cairo. Cairo is UTC+3 in summer
+    # and UTC+2 in winter, so the close is 11:30-12:30 UTC.
+    #
+    # Yahoo does NOT publish the day's daily bar promptly: measured against
+    # the live API, the bar for a session was still missing 2.5+ hours after
+    # the close. So we deliberately run late, and add a next-morning
+    # catch-up before the following session opens (10:00 Cairo).
+    #
+    # Off-the-hour minutes on purpose: GitHub delays scheduled runs that
+    # pile up at :00.
+    - cron: "23 18 * * 0-4"   # 21:23 Cairo (summer) / 20:23 (winter), same day
+    - cron: "23 6  * * 1-5"   # 09:23 / 08:23 Cairo, catch-up before next open
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+# Never let a catch-up run race the evening run's push.
+concurrency:
+  group: egx-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python scraper/fetch_egx.py
+
+      - name: Commit updated data
+        run: |
+          set -euo pipefail
+          # data_changed.py ignores the `updated_at` stamp, which is rewritten
+          # on every run. It exits non-zero on error, and `set -e` turns that
+          # into a visibly failed job rather than a silent no-commit.
+          verdict=$(python scraper/data_changed.py)
+          if [ "$verdict" = "unchanged" ]; then
+            echo "No new session data yet - nothing to commit."
+            git checkout -- data/latest.json
+            exit 0
+          fi
+          session=$(python -c "import json;print(json.load(open('data/latest.json',encoding='utf-8'))['session_date'])")
+          git config user.name  "egx-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/latest.json
+          git commit -m "Update EGX data for session $session"
+          git push

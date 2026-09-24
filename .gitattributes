@@ -1,0 +1,4 @@
+# Normalize to LF in the repo. The update workflow commits data/latest.json
+# from a Linux runner; without this, checking out on Windows rewrites it to
+# CRLF and every pull shows the whole file as changed.
+* text=auto eol=lf

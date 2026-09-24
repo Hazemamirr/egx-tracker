@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EGX Session Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-top">
+    <div class="mark">
+      <span class="dot" id="liveDot"></span>
+      <span class="exchange-name">Egyptian Exchange</span>
+    </div>
+    <div class="session-meta" id="sessionMeta">loading last session…</div>
+  </div>
+
+  <div class="hero-main">
+    <div class="hero-count">
+      <span class="count up" id="advCount">–</span>
+      <span class="hero-slash">/</span>
+      <span class="count down" id="decCount">–</span>
+    </div>
+    <p class="hero-label">stocks advanced / declined this session</p>
+  </div>
+
+  <div class="hero-strip" id="heroStrip"></div>
+</header>
+
+<div id="staleBanner" class="demo-banner stale-banner" hidden></div>
+
+<div id="demoBanner" class="demo-banner" hidden>
+  Showing sample data — run <code>scraper/fetch_egx.py</code> (or wait for the
+  next scheduled update) to load a real session.
+</div>
+
+<main>
+  <div class="controls">
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-filter="all">All</button>
+      <button class="tab" data-filter="gainers">Top gainers</button>
+      <button class="tab" data-filter="losers">Top losers</button>
+      <button class="tab" data-filter="active">Most active</button>
+    </div>
+    <input type="search" id="search" placeholder="Search symbol or name…" autocomplete="off">
+  </div>
+
+  <table id="stockTable">
+    <thead>
+      <tr>
+        <th class="col-symbol">Symbol</th>
+        <th class="col-name">Company</th>
+        <th class="col-num">Price (EGP)</th>
+        <th class="col-num">Change</th>
+        <th class="col-num">Volume</th>
+      </tr>
+    </thead>
+    <tbody id="stockBody">
+      <tr><td colspan="5" class="loading-row">Loading session data…</td></tr>
+    </tbody>
+  </table>
+
+  <p class="empty-state" id="emptyState" hidden>No stocks match that search.</p>
+</main>
+
+<footer>
+  <p>
+    Data pulled from Yahoo Finance after each EGX session (best-effort, not an
+    official feed) — see <code>data/tickers.json</code> to add or remove
+    stocks, and <code>README.md</code> for how the pipeline works.
+  </p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
