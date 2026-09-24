@@ -85,7 +85,13 @@ banner.
 | cron (UTC)       | Cairo (summer / winter) | purpose                          |
 |------------------|-------------------------|----------------------------------|
 | `23 18 * * 0-4`  | 21:23 / 20:23, Sun–Thu  | main run, ~7h after the close    |
-| `23 6  * * 1-5`  | 09:23 / 08:23, Mon–Fri  | catch-up before the next open    |
+| `23 6  * * *`    | 09:23 / 08:23, daily    | catch-up before the next open    |
+
+EGX is closed Friday and Saturday, so the main run only fires Sun–Thu. The
+catch-up runs *every* day on purpose: if Yahoo hasn't published Thursday's
+bar by Friday morning, a Mon–Fri catch-up would leave Wednesday's closes on
+the site until Sunday evening. The extra weekend runs cost nothing — they
+find no new session and skip the commit.
 
 Both are deliberately late, because of quirk #2 above. Cairo is UTC+3 in
 summer and UTC+2 in winter, and GitHub cron is always UTC — both slots stay
