@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:45:30+00:00",
+  "updated_at": "2026-10-04T21:40:06+00:00",
   "session_date": "2026-10-01",
   "demo": false,
   "stocks": [
@@ -267,11 +267,7 @@
       "symbol": "AMOC.CA",
       "name": "Alexandria Mineral Oils",
       "name_ar": "الإسكندرية لتصنيع الزيوت المعدنية",
-      "price": 14.05,
-      "prev_close": 13.29,
-      "change_pct": 5.72,
-      "volume": 13521460,
-      "session_date": "2026-10-01"
+      "error": "only 0 daily bar(s) available"
     },
     {
       "symbol": "SPMD.CA",
