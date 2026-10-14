@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:01:37+00:00",
+  "updated_at": "2026-10-14T21:49:10+00:00",
   "session_date": "2026-10-13",
   "demo": false,
   "stocks": [
@@ -167,7 +167,11 @@
       "symbol": "EGAL.CA",
       "name": "Egypt Aluminum",
       "name_ar": "مصر للألومنيوم",
-      "error": "only 0 daily bar(s) available"
+      "price": 315.01,
+      "prev_close": 326.5,
+      "change_pct": -3.52,
+      "volume": 257852,
+      "session_date": "2026-10-13"
     },
     {
       "symbol": "RMDA.CA",
