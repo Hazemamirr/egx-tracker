@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:58:53+00:00",
+  "updated_at": "2026-10-21T21:50:46+00:00",
   "session_date": "2026-10-20",
   "demo": false,
   "stocks": [
@@ -277,7 +277,11 @@
       "symbol": "SPMD.CA",
       "name": "Speed Medical",
       "name_ar": "سبيد ميديكال",
-      "error": "only 0 daily bar(s) available"
+      "price": 0.375,
+      "prev_close": 0.381,
+      "change_pct": -1.57,
+      "volume": 34673548,
+      "session_date": "2026-10-20"
     },
     {
       "symbol": "CERA.CA",
@@ -353,11 +357,7 @@
       "symbol": "MASR.CA",
       "name": "Madinet Masr for Housing & Development",
       "name_ar": "مدينة مصر للإسكان والتعمير",
-      "price": 7.11,
-      "prev_close": 7.0,
-      "change_pct": 1.57,
-      "volume": 2674435,
-      "session_date": "2026-10-20"
+      "error": "only 0 daily bar(s) available"
     },
     {
       "symbol": "ELKA.CA",
