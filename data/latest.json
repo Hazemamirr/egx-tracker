@@ -1,977 +1,977 @@
 {
-  "updated_at": "2026-10-30T13:05:28+00:00",
-  "session_date": "2026-10-29",
+  "updated_at": "2026-11-02T16:09:01+00:00",
+  "session_date": "2026-11-01",
   "demo": false,
   "stocks": [
     {
       "symbol": "COMI.CA",
       "name": "Commercial International Bank",
       "name_ar": "البنك التجاري الدولي",
-      "price": 120.47,
-      "prev_close": 119.9,
-      "change_pct": 0.48,
-      "volume": 4357823,
-      "session_date": "2026-10-29"
+      "price": 118.0,
+      "prev_close": 120.47,
+      "change_pct": -2.05,
+      "volume": 3617630,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "HRHO.CA",
       "name": "EFG Hermes Holding",
       "name_ar": "المجموعة المالية هيرميس",
-      "price": 23.6,
-      "prev_close": 23.8,
-      "change_pct": -0.84,
-      "volume": 1320601,
-      "session_date": "2026-10-29"
+      "price": 23.15,
+      "prev_close": 23.6,
+      "change_pct": -1.91,
+      "volume": 1126625,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SWDY.CA",
       "name": "Elsewedy Electric",
       "name_ar": "السويدي إليكتريك",
-      "price": 112.25,
-      "prev_close": 113.0,
-      "change_pct": -0.66,
-      "volume": 411031,
-      "session_date": "2026-10-29"
+      "price": 110.41,
+      "prev_close": 112.25,
+      "change_pct": -1.64,
+      "volume": 218413,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ETEL.CA",
       "name": "Telecom Egypt",
       "name_ar": "المصرية للاتصالات",
-      "price": 120.1,
-      "prev_close": 122.12,
-      "change_pct": -1.65,
-      "volume": 1587374,
-      "session_date": "2026-10-29"
+      "price": 117.82,
+      "prev_close": 120.1,
+      "change_pct": -1.9,
+      "volume": 998504,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ABUK.CA",
       "name": "Abou Kir Fertilizers",
       "name_ar": "أبوقير للأسمدة",
-      "price": 88.03,
-      "prev_close": 91.23,
-      "change_pct": -3.51,
-      "volume": 2027083,
-      "session_date": "2026-10-29"
+      "price": 84.55,
+      "prev_close": 88.03,
+      "change_pct": -3.95,
+      "volume": 926260,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ADIB.CA",
       "name": "Abu Dhabi Islamic Bank Egypt",
       "name_ar": "بنك أبوظبي الإسلامي مصر",
-      "price": 46.33,
-      "prev_close": 45.61,
-      "change_pct": 1.58,
-      "volume": 808863,
-      "session_date": "2026-10-29"
+      "price": 47.9,
+      "prev_close": 46.33,
+      "change_pct": 3.39,
+      "volume": 1752903,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "OIH.CA",
       "name": "Orascom Investment Holding",
       "name_ar": "أوراسكوم للاستثمار القابضة",
-      "price": 1.67,
-      "prev_close": 1.61,
-      "change_pct": 3.73,
-      "volume": 16715501,
-      "session_date": "2026-10-29"
+      "price": 1.65,
+      "prev_close": 1.67,
+      "change_pct": -1.2,
+      "volume": 6407523,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ORHD.CA",
       "name": "Orascom Development Egypt",
       "name_ar": "أوراسكوم للتنمية مصر",
-      "price": 9.9,
-      "prev_close": 9.55,
-      "change_pct": 3.66,
-      "volume": 9033231,
-      "session_date": "2026-10-29"
+      "price": 9.67,
+      "prev_close": 9.9,
+      "change_pct": -2.32,
+      "volume": 4224560,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CLHO.CA",
       "name": "Cleopatra Hospital Company",
       "name_ar": "مستشفى كليوباترا",
-      "price": 13.57,
-      "prev_close": 13.55,
-      "change_pct": 0.15,
-      "volume": 908256,
-      "session_date": "2026-10-29"
+      "price": 13.43,
+      "prev_close": 13.57,
+      "change_pct": -1.03,
+      "volume": 2341666,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "PHDC.CA",
       "name": "Palm Hills Developments",
       "name_ar": "بالم هيلز للتعمير",
-      "price": 11.4,
-      "prev_close": 11.35,
-      "change_pct": 0.44,
-      "volume": 3918638,
-      "session_date": "2026-10-29"
+      "price": 10.6,
+      "prev_close": 11.4,
+      "change_pct": -7.02,
+      "volume": 11919507,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "JUFO.CA",
       "name": "Juhayna Food Industries",
       "name_ar": "جهينة للصناعات الغذائية",
-      "price": 23.3,
-      "prev_close": 23.0,
-      "change_pct": 1.3,
-      "volume": 1362534,
-      "session_date": "2026-10-29"
+      "price": 22.52,
+      "prev_close": 23.3,
+      "change_pct": -3.35,
+      "volume": 470694,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ORWE.CA",
       "name": "Oriental Weavers",
       "name_ar": "السجاد الشرقية",
-      "price": 23.34,
-      "prev_close": 23.1,
-      "change_pct": 1.04,
-      "volume": 907562,
-      "session_date": "2026-10-29"
+      "price": 25.0,
+      "prev_close": 23.34,
+      "change_pct": 7.11,
+      "volume": 1698235,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EFID.CA",
       "name": "Edita Food Industries",
       "name_ar": "إيديتا للصناعات الغذائية",
-      "price": 17.75,
-      "prev_close": 17.5,
-      "change_pct": 1.43,
-      "volume": 1737558,
-      "session_date": "2026-10-29"
+      "price": 18.04,
+      "prev_close": 17.75,
+      "change_pct": 1.63,
+      "volume": 1368464,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EFIH.CA",
       "name": "e-finance Investment Group",
       "name_ar": "إي فاينانس للاستثمارات المالية والرقمية",
-      "price": 22.8,
-      "prev_close": 22.02,
-      "change_pct": 3.54,
-      "volume": 1803397,
-      "session_date": "2026-10-29"
+      "price": 23.0,
+      "prev_close": 22.8,
+      "change_pct": 0.88,
+      "volume": 5689861,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ISPH.CA",
       "name": "Ibnsina Pharma",
       "name_ar": "ابن سينا فارما",
-      "price": 9.99,
-      "prev_close": 9.86,
-      "change_pct": 1.32,
-      "volume": 5776000,
-      "session_date": "2026-10-29"
+      "price": 9.5,
+      "prev_close": 9.99,
+      "change_pct": -4.9,
+      "volume": 14261431,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "HELI.CA",
       "name": "Heliopolis Housing",
       "name_ar": "مصر الجديدة للإسكان",
-      "price": 6.47,
-      "prev_close": 6.25,
-      "change_pct": 3.52,
-      "volume": 12194988,
-      "session_date": "2026-10-29"
+      "price": 6.35,
+      "prev_close": 6.47,
+      "change_pct": -1.85,
+      "volume": 6852709,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EGAL.CA",
       "name": "Egypt Aluminum",
       "name_ar": "مصر للألومنيوم",
       "price": 304.0,
-      "prev_close": 303.01,
-      "change_pct": 0.33,
-      "volume": 118761,
-      "session_date": "2026-10-29"
+      "prev_close": 304.0,
+      "change_pct": 0.0,
+      "volume": 128276,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "RMDA.CA",
       "name": "Rameda Pharmaceuticals",
       "name_ar": "راميدا",
-      "price": 5.2,
-      "prev_close": 5.02,
-      "change_pct": 3.59,
-      "volume": 4155458,
-      "session_date": "2026-10-29"
+      "price": 5.02,
+      "prev_close": 5.2,
+      "change_pct": -3.46,
+      "volume": 3726014,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "MCQE.CA",
       "name": "Misr Cement Qena",
       "name_ar": "مصر لاسمنت قنا",
-      "price": 167.85,
-      "prev_close": 163.48,
-      "change_pct": 2.67,
-      "volume": 188080,
-      "session_date": "2026-10-29"
+      "price": 167.0,
+      "prev_close": 167.85,
+      "change_pct": -0.51,
+      "volume": 204675,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CCAP.CA",
       "name": "Qalaa Holdings",
       "name_ar": "قلعة القابضة",
-      "price": 6.13,
-      "prev_close": 6.04,
-      "change_pct": 1.49,
-      "volume": 83634290,
-      "session_date": "2026-10-29"
+      "price": 5.92,
+      "prev_close": 6.13,
+      "change_pct": -3.43,
+      "volume": 62819716,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "FWRY.CA",
       "name": "Fawry for Banking Technology",
       "name_ar": "فوري لتكنولوجيا البنوك والمدفوعات",
-      "price": 17.05,
-      "prev_close": 17.0,
-      "change_pct": 0.29,
-      "volume": 13950161,
-      "session_date": "2026-10-29"
+      "price": 16.3,
+      "prev_close": 17.05,
+      "change_pct": -4.4,
+      "volume": 5682244,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "TMGH.CA",
       "name": "Talaat Moustafa Group Holding",
       "name_ar": "مجموعة طلعت مصطفى",
-      "price": 80.4,
-      "prev_close": 80.15,
-      "change_pct": 0.31,
-      "volume": 3518409,
-      "session_date": "2026-10-29"
+      "price": 79.5,
+      "prev_close": 80.4,
+      "change_pct": -1.12,
+      "volume": 3122515,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EMFD.CA",
       "name": "Emaar Misr for Development",
       "name_ar": "إعمار مصر للتنمية",
-      "price": 11.8,
-      "prev_close": 11.68,
-      "change_pct": 1.03,
-      "volume": 2505916,
-      "session_date": "2026-10-29"
+      "price": 11.92,
+      "prev_close": 11.8,
+      "change_pct": 1.02,
+      "volume": 2431826,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SKPC.CA",
       "name": "Sidi Kerir Petrochemicals",
       "name_ar": "سيدي كرير للبتروكيماويات",
-      "price": 15.0,
-      "prev_close": 14.62,
-      "change_pct": 2.6,
-      "volume": 3198728,
-      "session_date": "2026-10-29"
+      "price": 15.01,
+      "prev_close": 15.0,
+      "change_pct": 0.07,
+      "volume": 1882399,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "GBCO.CA",
       "name": "GB Corp",
       "name_ar": "جي بي كورب",
-      "price": 23.3,
-      "prev_close": 23.02,
-      "change_pct": 1.22,
-      "volume": 1496988,
-      "session_date": "2026-10-29"
+      "price": 21.7,
+      "prev_close": 23.3,
+      "change_pct": -6.87,
+      "volume": 6439408,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EAST.CA",
       "name": "Eastern Company (Tobacco)",
       "name_ar": "الشرقية للدخان",
-      "price": 32.44,
-      "prev_close": 31.8,
-      "change_pct": 2.01,
-      "volume": 847087,
-      "session_date": "2026-10-29"
+      "price": 31.99,
+      "prev_close": 32.44,
+      "change_pct": -1.39,
+      "volume": 137476,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "AMOC.CA",
       "name": "Alexandria Mineral Oils",
       "name_ar": "الإسكندرية لتصنيع الزيوت المعدنية",
-      "price": 14.0,
-      "prev_close": 13.35,
-      "change_pct": 4.87,
-      "volume": 15618314,
-      "session_date": "2026-10-29"
+      "price": 14.31,
+      "prev_close": 14.0,
+      "change_pct": 2.21,
+      "volume": 38845451,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SPMD.CA",
       "name": "Speed Medical",
       "name_ar": "سبيد ميديكال",
-      "price": 0.345,
-      "prev_close": 0.336,
-      "change_pct": 2.68,
-      "volume": 63187173,
-      "session_date": "2026-10-29"
+      "price": 0.341,
+      "prev_close": 0.345,
+      "change_pct": -1.16,
+      "volume": 14015229,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CERA.CA",
       "name": "Arab Ceramics (Aracemco)",
       "name_ar": "العربية للسيراميك - أراسيمكو",
-      "price": 1.06,
-      "prev_close": 1.03,
-      "change_pct": 2.91,
-      "volume": 81058161,
-      "session_date": "2026-10-29"
+      "price": 1.04,
+      "prev_close": 1.06,
+      "change_pct": -1.89,
+      "volume": 43158484,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "GDWA.CA",
       "name": "Gadwa for Industrial Development",
       "name_ar": "جدوى للتنمية الصناعية",
-      "price": 0.558,
-      "prev_close": 0.533,
-      "change_pct": 4.69,
-      "volume": 41870995,
-      "session_date": "2026-10-29"
+      "price": 0.546,
+      "prev_close": 0.558,
+      "change_pct": -2.15,
+      "volume": 11596777,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "BTFH.CA",
       "name": "Beltone Holding",
       "name_ar": "بلتون القابضة",
-      "price": 2.36,
-      "prev_close": 2.23,
-      "change_pct": 5.83,
-      "volume": 157727985,
-      "session_date": "2026-10-29"
+      "price": 2.33,
+      "prev_close": 2.36,
+      "change_pct": -1.27,
+      "volume": 35305469,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "GGCC.CA",
       "name": "Giza General Contracting & Real Estate Investment",
       "name_ar": "جيزة العامة للمقاولات والاستثمار العقاري",
-      "price": 0.545,
-      "prev_close": 0.534,
-      "change_pct": 2.06,
-      "volume": 23546827,
-      "session_date": "2026-10-29"
+      "price": 0.52,
+      "prev_close": 0.545,
+      "change_pct": -4.59,
+      "volume": 54384294,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "UEGC.CA",
       "name": "Upper Egypt Contracting (El Saeed)",
       "name_ar": "الصعيد العامة للمقاولات والاستثمار العقاري",
-      "price": 1.43,
-      "prev_close": 1.39,
-      "change_pct": 2.88,
-      "volume": 25171786,
-      "session_date": "2026-10-29"
+      "price": 1.4,
+      "prev_close": 1.43,
+      "change_pct": -2.1,
+      "volume": 19178139,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ZMID.CA",
       "name": "Zahraa El Maadi Investment & Development",
       "name_ar": "زهراء المعادي للاستثمار والتعمير",
-      "price": 6.63,
-      "prev_close": 6.31,
-      "change_pct": 5.07,
-      "volume": 17178821,
-      "session_date": "2026-10-29"
+      "price": 6.4,
+      "prev_close": 6.63,
+      "change_pct": -3.47,
+      "volume": 5053234,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "NCCW.CA",
       "name": "Nasr Company for Civil Works",
       "name_ar": "النصر للأعمال المدنية",
-      "price": 5.19,
-      "prev_close": 4.99,
-      "change_pct": 4.01,
-      "volume": 3455521,
-      "session_date": "2026-10-29"
+      "price": 5.23,
+      "prev_close": 5.19,
+      "change_pct": 0.77,
+      "volume": 3807002,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "MASR.CA",
       "name": "Madinet Masr for Housing & Development",
       "name_ar": "مدينة مصر للإسكان والتعمير",
-      "price": 6.93,
-      "prev_close": 6.36,
-      "change_pct": 8.96,
-      "volume": 12952979,
-      "session_date": "2026-10-29"
+      "price": 6.7,
+      "prev_close": 6.93,
+      "change_pct": -3.32,
+      "volume": 4523495,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ELKA.CA",
       "name": "Cairo for Housing & Development",
       "name_ar": "القاهرة للإسكان والتعمير",
-      "price": 1.44,
-      "prev_close": 1.37,
-      "change_pct": 5.11,
-      "volume": 12499182,
-      "session_date": "2026-10-29"
+      "price": 1.4,
+      "prev_close": 1.44,
+      "change_pct": -2.78,
+      "volume": 9608115,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SVCE.CA",
       "name": "South Valley Cement",
       "name_ar": "أسمنت جنوب الوادي",
-      "price": 8.7,
-      "prev_close": 8.4,
-      "change_pct": 3.57,
-      "volume": 2879171,
-      "session_date": "2026-10-29"
+      "price": 8.5,
+      "prev_close": 8.7,
+      "change_pct": -2.3,
+      "volume": 4968575,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "AMER.CA",
       "name": "Amer Group Holding",
       "name_ar": "مجموعة عامر القابضة",
-      "price": 4.36,
-      "prev_close": 4.31,
-      "change_pct": 1.16,
-      "volume": 9515361,
-      "session_date": "2026-10-29"
+      "price": 4.22,
+      "prev_close": 4.36,
+      "change_pct": -3.21,
+      "volume": 5022418,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CCRS.CA",
       "name": "Gulf Canadian for Arab Real Estate Investment",
       "name_ar": "الخليجية الكندية للاستثمار العقاري العربي",
-      "price": 1.66,
-      "prev_close": 1.59,
-      "change_pct": 4.4,
-      "volume": 3742679,
-      "session_date": "2026-10-29"
+      "price": 1.69,
+      "prev_close": 1.66,
+      "change_pct": 1.81,
+      "volume": 3597618,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ATQA.CA",
       "name": "Misr National Steel (Ataqa)",
       "name_ar": "مصر الوطنية للصلب - عتاقة",
-      "price": 9.05,
-      "prev_close": 9.0,
-      "change_pct": 0.56,
-      "volume": 3652086,
-      "session_date": "2026-10-29"
+      "price": 9.04,
+      "prev_close": 9.05,
+      "change_pct": -0.11,
+      "volume": 3086318,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EGCH.CA",
       "name": "Egyptian Chemical Industries (Kima)",
       "name_ar": "المصرية للصناعات الكيماوية - كيما",
-      "price": 10.52,
-      "prev_close": 10.6,
-      "change_pct": -0.75,
-      "volume": 4005754,
-      "session_date": "2026-10-29"
+      "price": 10.2,
+      "prev_close": 10.52,
+      "change_pct": -3.04,
+      "volume": 5216227,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "TALM.CA",
       "name": "Taaleem Management Services",
       "name_ar": "تعليم لخدمات الإدارة",
-      "price": 19.32,
-      "prev_close": 19.09,
-      "change_pct": 1.2,
-      "volume": 623325,
-      "session_date": "2026-10-29"
+      "price": 18.58,
+      "prev_close": 19.32,
+      "change_pct": -3.83,
+      "volume": 666626,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ADPC.CA",
       "name": "Arab Dairy Products (Panda)",
       "name_ar": "العربية لمنتجات الألبان - باندا",
-      "price": 3.01,
-      "prev_close": 2.85,
-      "change_pct": 5.61,
-      "volume": 3969639,
-      "session_date": "2026-10-29"
+      "price": 2.94,
+      "prev_close": 3.01,
+      "change_pct": -2.33,
+      "volume": 606140,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "RAYA.CA",
       "name": "Raya Holding for Financial Investments",
       "name_ar": "راية القابضة للاستثمارات المالية",
-      "price": 5.6,
-      "prev_close": 5.46,
-      "change_pct": 2.56,
-      "volume": 1956028,
-      "session_date": "2026-10-29"
+      "price": 5.33,
+      "prev_close": 5.6,
+      "change_pct": -4.82,
+      "volume": 3075141,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ODIN.CA",
       "name": "Odin Investments",
       "name_ar": "أودين للاستثمارات",
-      "price": 2.09,
-      "prev_close": 1.92,
-      "change_pct": 8.85,
-      "volume": 8055934,
-      "session_date": "2026-10-29"
+      "price": 2.05,
+      "prev_close": 2.09,
+      "change_pct": -1.91,
+      "volume": 3414197,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "MFPC.CA",
       "name": "Misr Fertilizers Production (MOPCO)",
       "name_ar": "موبكو - مصر لإنتاج الأسمدة",
-      "price": 44.85,
-      "prev_close": 46.0,
-      "change_pct": -2.5,
-      "volume": 1193680,
-      "session_date": "2026-10-29"
+      "price": 44.0,
+      "prev_close": 44.85,
+      "change_pct": -1.9,
+      "volume": 777964,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EGTS.CA",
       "name": "Egyptian Resorts Company",
       "name_ar": "المصرية للمنتجعات السياحية",
-      "price": 12.37,
-      "prev_close": 12.02,
-      "change_pct": 2.91,
-      "volume": 1682591,
-      "session_date": "2026-10-29"
+      "price": 12.28,
+      "prev_close": 12.37,
+      "change_pct": -0.73,
+      "volume": 2401352,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ISMQ.CA",
       "name": "Iron & Steel for Mines & Quarries",
       "name_ar": "الحديد والصلب للمناجم والمحاجر",
-      "price": 6.65,
-      "prev_close": 6.6,
-      "change_pct": 0.76,
-      "volume": 1428211,
-      "session_date": "2026-10-29"
+      "price": 7.2,
+      "prev_close": 6.65,
+      "change_pct": 8.27,
+      "volume": 3707271,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "OCDI.CA",
       "name": "SODIC (Sixth of October Development)",
       "name_ar": "السادس من أكتوبر للتنمية والاستثمار - سوديك",
-      "price": 23.71,
-      "prev_close": 23.55,
-      "change_pct": 0.68,
-      "volume": 614937,
-      "session_date": "2026-10-29"
+      "price": 22.84,
+      "prev_close": 23.71,
+      "change_pct": -3.67,
+      "volume": 956101,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "MTIE.CA",
       "name": "MM Group for Industry & International Trade",
       "name_ar": "إم إم جروب للصناعة والتجارة العالمية",
-      "price": 7.0,
-      "prev_close": 7.02,
-      "change_pct": -0.28,
-      "volume": 1222773,
-      "session_date": "2026-10-29"
+      "price": 6.93,
+      "prev_close": 7.0,
+      "change_pct": -1.0,
+      "volume": 781524,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ELSH.CA",
       "name": "Al Shams Housing & Urbanization",
       "name_ar": "الشمس للإسكان والتعمير",
-      "price": 10.15,
-      "prev_close": 9.68,
-      "change_pct": 4.86,
-      "volume": 1215879,
-      "session_date": "2026-10-29"
+      "price": 9.91,
+      "prev_close": 10.15,
+      "change_pct": -2.36,
+      "volume": 775025,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ACGC.CA",
       "name": "Arabia Cotton Ginning",
       "name_ar": "العربية لحليج الأقطان",
-      "price": 13.3,
-      "prev_close": 12.76,
-      "change_pct": 4.23,
-      "volume": 489953,
-      "session_date": "2026-10-29"
+      "price": 12.88,
+      "prev_close": 13.3,
+      "change_pct": -3.16,
+      "volume": 413442,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "PRMH.CA",
       "name": "Prime Holding",
       "name_ar": "برايم القابضة",
-      "price": 1.88,
-      "prev_close": 1.84,
-      "change_pct": 2.17,
-      "volume": 1635072,
-      "session_date": "2026-10-29"
+      "price": 1.86,
+      "prev_close": 1.88,
+      "change_pct": -1.06,
+      "volume": 1825443,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EXPA.CA",
       "name": "Export Development Bank of Egypt",
       "name_ar": "البنك المصري لتنمية الصادرات",
-      "price": 14.03,
-      "prev_close": 13.7,
-      "change_pct": 2.41,
-      "volume": 371146,
-      "session_date": "2026-10-29"
+      "price": 14.0,
+      "prev_close": 14.03,
+      "change_pct": -0.21,
+      "volume": 2249920,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "UNIT.CA",
       "name": "United Housing & Development",
       "name_ar": "المتحدة للإسكان والتعمير",
       "price": 17.76,
-      "prev_close": 17.0,
-      "change_pct": 4.47,
-      "volume": 106322,
-      "session_date": "2026-10-29"
+      "prev_close": 17.76,
+      "change_pct": 0.0,
+      "volume": 83736,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CIRA.CA",
       "name": "Cairo for Investment & Real Estate Development",
       "name_ar": "القاهرة للاستثمار والتنمية العقارية",
-      "price": 35.9,
-      "prev_close": 34.32,
-      "change_pct": 4.6,
-      "volume": 486741,
-      "session_date": "2026-10-29"
+      "price": 36.01,
+      "prev_close": 35.9,
+      "change_pct": 0.31,
+      "volume": 339163,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "KZPC.CA",
       "name": "Kafr El Zayat Pesticides & Chemicals",
       "name_ar": "كفر الزيات للمبيدات والكيماويات",
-      "price": 12.87,
-      "prev_close": 12.6,
-      "change_pct": 2.14,
-      "volume": 359219,
-      "session_date": "2026-10-29"
+      "price": 12.65,
+      "prev_close": 12.87,
+      "change_pct": -1.71,
+      "volume": 221993,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ALCN.CA",
       "name": "Alexandria Containers & Cargo Handling",
       "name_ar": "الإسكندرية لتداول الحاويات والبضائع",
-      "price": 31.57,
-      "prev_close": 31.09,
-      "change_pct": 1.54,
-      "volume": 187869,
-      "session_date": "2026-10-29"
+      "price": 31.13,
+      "prev_close": 31.57,
+      "change_pct": -1.39,
+      "volume": 168397,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SAUD.CA",
       "name": "Al Baraka Bank Egypt",
       "name_ar": "بنك البركة مصر",
-      "price": 20.57,
-      "prev_close": 20.76,
-      "change_pct": -0.92,
-      "volume": 411503,
-      "session_date": "2026-10-29"
+      "price": 20.5,
+      "prev_close": 20.57,
+      "change_pct": -0.34,
+      "volume": 410063,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ETRS.CA",
       "name": "Egytrans (Egyptian Transport & Commercial Services)",
       "name_ar": "المصرية لخدمات النقل والتجارة - إيجيترانس",
-      "price": 10.4,
+      "price": 10.42,
       "prev_close": 10.4,
-      "change_pct": 0.0,
-      "volume": 1749386,
-      "session_date": "2026-10-29"
+      "change_pct": 0.19,
+      "volume": 787050,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "POUL.CA",
       "name": "Cairo Poultry",
       "name_ar": "القاهرة للدواجن",
-      "price": 9.55,
-      "prev_close": 9.48,
-      "change_pct": 0.74,
-      "volume": 3955950,
-      "session_date": "2026-10-29"
+      "price": 9.44,
+      "prev_close": 9.55,
+      "change_pct": -1.15,
+      "volume": 3232606,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "NINH.CA",
       "name": "Nozha International Hospital",
       "name_ar": "مستشفى النزهة الدولي",
-      "price": 15.08,
-      "prev_close": 14.8,
-      "change_pct": 1.89,
-      "volume": 543071,
-      "session_date": "2026-10-29"
+      "price": 14.88,
+      "prev_close": 15.08,
+      "change_pct": -1.33,
+      "volume": 170135,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CANA.CA",
       "name": "Suez Canal Bank",
       "name_ar": "بنك قناة السويس",
-      "price": 46.5,
-      "prev_close": 44.88,
-      "change_pct": 3.61,
-      "volume": 347061,
-      "session_date": "2026-10-29"
+      "price": 47.63,
+      "prev_close": 46.5,
+      "change_pct": 2.43,
+      "volume": 827629,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "OLFI.CA",
       "name": "Obour Land for Food Industries",
       "name_ar": "العبور لتصنيع المواد الغذائية",
-      "price": 19.13,
-      "prev_close": 18.91,
-      "change_pct": 1.16,
-      "volume": 245340,
-      "session_date": "2026-10-29"
+      "price": 19.0,
+      "prev_close": 19.13,
+      "change_pct": -0.68,
+      "volume": 213987,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SCEM.CA",
       "name": "Sinai Cement",
       "name_ar": "أسمنت سيناء",
-      "price": 84.26,
-      "prev_close": 82.91,
-      "change_pct": 1.63,
-      "volume": 217218,
-      "session_date": "2026-10-29"
+      "price": 85.93,
+      "prev_close": 84.26,
+      "change_pct": 1.98,
+      "volume": 1024015,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "BINV.CA",
       "name": "B Investments Holding",
       "name_ar": "بي إنفستمنتس القابضة",
-      "price": 52.52,
-      "prev_close": 51.0,
-      "change_pct": 2.98,
-      "volume": 26222,
-      "session_date": "2026-10-29"
+      "price": 51.62,
+      "prev_close": 52.52,
+      "change_pct": -1.71,
+      "volume": 49273,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "IFAP.CA",
       "name": "International Company for Agricultural Crops",
       "name_ar": "الدولية للمحاصيل الزراعية",
-      "price": 16.75,
-      "prev_close": 16.46,
-      "change_pct": 1.76,
-      "volume": 252660,
-      "session_date": "2026-10-29"
+      "price": 16.46,
+      "prev_close": 16.75,
+      "change_pct": -1.73,
+      "volume": 187871,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ELWA.CA",
       "name": "El Wadi for International Investment & Development",
       "name_ar": "الوادي للاستثمار والتنمية الدولية",
-      "price": 1.57,
-      "prev_close": 1.65,
-      "change_pct": -4.85,
-      "volume": 208182,
-      "session_date": "2026-10-29"
+      "price": 1.5,
+      "prev_close": 1.57,
+      "change_pct": -4.46,
+      "volume": 331009,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ENGC.CA",
       "name": "Industrial Engineering for Construction & Development (ICON)",
       "name_ar": "الهندسية الصناعية للتعمير - أيكون",
-      "price": 36.0,
-      "prev_close": 33.89,
-      "change_pct": 6.23,
-      "volume": 603980,
-      "session_date": "2026-10-29"
+      "price": 34.96,
+      "prev_close": 36.0,
+      "change_pct": -2.89,
+      "volume": 175056,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "IRON.CA",
       "name": "Egyptian Iron & Steel",
       "name_ar": "الحديد والصلب المصرية",
-      "price": 24.57,
-      "prev_close": 24.99,
-      "change_pct": -1.68,
-      "volume": 410132,
-      "session_date": "2026-10-29"
+      "price": 24.56,
+      "prev_close": 24.57,
+      "change_pct": -0.04,
+      "volume": 278808,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CICH.CA",
       "name": "CI Capital Holding",
       "name_ar": "سي آي كابيتال القابضة",
-      "price": 10.61,
-      "prev_close": 10.84,
-      "change_pct": -2.12,
-      "volume": 298712,
-      "session_date": "2026-10-29"
+      "price": 10.71,
+      "prev_close": 10.61,
+      "change_pct": 0.94,
+      "volume": 181677,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "LCSW.CA",
       "name": "Lecico Egypt",
       "name_ar": "ليسيكو مصر",
-      "price": 36.47,
-      "prev_close": 35.73,
-      "change_pct": 2.07,
-      "volume": 1007276,
-      "session_date": "2026-10-29"
+      "price": 35.67,
+      "prev_close": 36.47,
+      "change_pct": -2.19,
+      "volume": 455192,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "EFIC.CA",
       "name": "Egyptian Financial & Industrial",
       "name_ar": "المالية والصناعية المصرية",
-      "price": 141.76,
-      "prev_close": 142.0,
-      "change_pct": -0.17,
-      "volume": 58400,
-      "session_date": "2026-10-29"
+      "price": 137.74,
+      "prev_close": 141.76,
+      "change_pct": -2.84,
+      "volume": 55993,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SPIN.CA",
       "name": "Alexandria Spinning & Weaving (Spinalex)",
       "name_ar": "الإسكندرية للغزل والنسيج",
-      "price": 14.32,
-      "prev_close": 14.17,
-      "change_pct": 1.06,
-      "volume": 97210,
-      "session_date": "2026-10-29"
+      "price": 13.83,
+      "prev_close": 14.32,
+      "change_pct": -3.42,
+      "volume": 271671,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "MOIL.CA",
       "name": "Maridive & Oil Services",
       "name_ar": "ماريديف وخدمات البترول",
-      "price": 0.65,
-      "prev_close": 0.645,
-      "change_pct": 0.78,
-      "volume": 53432,
-      "session_date": "2026-10-29"
+      "price": 0.633,
+      "prev_close": 0.65,
+      "change_pct": -2.62,
+      "volume": 241862,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "IDRE.CA",
       "name": "Ismailia Development & Real Estate",
       "name_ar": "الإسماعيلية للتنمية والاستثمار العقاري",
-      "price": 36.58,
-      "prev_close": 34.31,
-      "change_pct": 6.62,
-      "volume": 264539,
-      "session_date": "2026-10-29"
+      "price": 37.65,
+      "prev_close": 36.58,
+      "change_pct": 2.93,
+      "volume": 227569,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "CIEB.CA",
       "name": "Credit Agricole Egypt",
       "name_ar": "بنك كريدي أجريكول مصر",
-      "price": 22.54,
-      "prev_close": 22.47,
-      "change_pct": 0.31,
-      "volume": 133679,
-      "session_date": "2026-10-29"
+      "price": 22.64,
+      "prev_close": 22.54,
+      "change_pct": 0.44,
+      "volume": 544065,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "HDBK.CA",
       "name": "Housing & Development Bank",
       "name_ar": "بنك التعمير والإسكان",
-      "price": 97.1,
-      "prev_close": 95.42,
-      "change_pct": 1.76,
-      "volume": 211643,
-      "session_date": "2026-10-29"
+      "price": 97.9,
+      "prev_close": 97.1,
+      "change_pct": 0.82,
+      "volume": 255946,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SDTI.CA",
       "name": "Sharm Dreams for Touristic Investment",
       "name_ar": "شرم دريمز للاستثمار السياحي",
       "price": 83.0,
-      "prev_close": 80.4,
-      "change_pct": 3.23,
-      "volume": 221691,
-      "session_date": "2026-10-29"
+      "prev_close": 83.0,
+      "change_pct": 0.0,
+      "volume": 193935,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "SUGR.CA",
       "name": "Delta Sugar",
       "name_ar": "الدلتا للسكر",
-      "price": 49.0,
-      "prev_close": 49.58,
-      "change_pct": -1.17,
-      "volume": 342509,
-      "session_date": "2026-10-29"
+      "price": 48.58,
+      "prev_close": 49.0,
+      "change_pct": -0.86,
+      "volume": 73650,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "GMCI.CA",
       "name": "GMC Group for Industrial & Financial Investments",
       "name_ar": "جي إم سي جروب للاستثمارات الصناعية والمالية",
-      "price": 1.41,
-      "prev_close": 1.48,
-      "change_pct": -4.73,
-      "volume": 359668,
-      "session_date": "2026-10-29"
+      "price": 1.39,
+      "prev_close": 1.41,
+      "change_pct": -1.42,
+      "volume": 314528,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "MPCI.CA",
       "name": "Memphis Pharmaceuticals & Chemical Industries",
       "name_ar": "ممفيس للأدوية والصناعات الكيماوية",
-      "price": 326.0,
-      "prev_close": 289.0,
-      "change_pct": 12.8,
-      "volume": 544405,
-      "session_date": "2026-10-29"
+      "price": 318.1,
+      "prev_close": 326.0,
+      "change_pct": -2.42,
+      "volume": 469071,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ARCC.CA",
       "name": "Arabian Cement",
       "name_ar": "الأسمنت العربية",
-      "price": 64.5,
-      "prev_close": 63.52,
-      "change_pct": 1.54,
-      "volume": 265162,
-      "session_date": "2026-10-29"
+      "price": 63.61,
+      "prev_close": 64.5,
+      "change_pct": -1.38,
+      "volume": 311932,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "FIRE.CA",
       "name": "First Investment & Real Estate Development",
       "name_ar": "الأولى للاستثمار والتنمية العقارية",
-      "price": 4.03,
+      "price": 3.99,
       "prev_close": 4.03,
-      "change_pct": 0.0,
-      "volume": 23796,
-      "session_date": "2026-10-29"
+      "change_pct": -0.99,
+      "volume": 58909,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "DOMT.CA",
       "name": "Arabian Food Industries (Domty)",
       "name_ar": "العربية للصناعات الغذائية - دومتي",
-      "price": 22.65,
-      "prev_close": 22.44,
-      "change_pct": 0.94,
-      "volume": 79509,
-      "session_date": "2026-10-29"
+      "price": 22.81,
+      "prev_close": 22.65,
+      "change_pct": 0.71,
+      "volume": 74594,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "DAPH.CA",
       "name": "Development & Engineering Consultants",
       "name_ar": "الاستشاريون للتطوير والهندسة",
-      "price": 79.23,
-      "prev_close": 76.39,
-      "change_pct": 3.72,
-      "volume": 184987,
-      "session_date": "2026-10-29"
+      "price": 80.45,
+      "prev_close": 79.23,
+      "change_pct": 1.54,
+      "volume": 208944,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ASCM.CA",
       "name": "ASEC Mining (ASCOM)",
       "name_ar": "أسيك للتعدين - أسكوم",
-      "price": 43.49,
-      "prev_close": 42.27,
-      "change_pct": 2.89,
-      "volume": 76288,
-      "session_date": "2026-10-29"
+      "price": 43.31,
+      "prev_close": 43.49,
+      "change_pct": -0.41,
+      "volume": 65615,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "AFDI.CA",
       "name": "Al Ahly for Development & Investment",
       "name_ar": "الأهلي للتنمية والاستثمار",
-      "price": 42.96,
-      "prev_close": 42.89,
-      "change_pct": 0.16,
-      "volume": 46353,
-      "session_date": "2026-10-29"
+      "price": 43.7,
+      "prev_close": 42.96,
+      "change_pct": 1.72,
+      "volume": 77287,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ROTO.CA",
       "name": "Rowad Tourism",
       "name_ar": "رواد السياحة",
-      "price": 30.7,
-      "prev_close": 29.0,
-      "change_pct": 5.86,
-      "volume": 288297,
-      "session_date": "2026-10-29"
+      "price": 29.93,
+      "prev_close": 30.7,
+      "change_pct": -2.51,
+      "volume": 102436,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "BIOC.CA",
       "name": "GlaxoSmithKline Egypt",
       "name_ar": "جلاكسو سميثكلاين مصر",
-      "price": 290.7,
-      "prev_close": 281.03,
-      "change_pct": 3.44,
-      "volume": 454814,
-      "session_date": "2026-10-29"
+      "price": 279.0,
+      "prev_close": 290.7,
+      "change_pct": -4.02,
+      "volume": 193302,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "ECAP.CA",
       "name": "Al Ezz Ceramics & Porcelain (Gemma)",
       "name_ar": "العز للسيراميك والبورسلين - چemma",
-      "price": 26.78,
-      "prev_close": 26.49,
-      "change_pct": 1.09,
-      "volume": 64158,
-      "session_date": "2026-10-29"
+      "price": 26.17,
+      "prev_close": 26.78,
+      "change_pct": -2.28,
+      "volume": 68865,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "AALR.CA",
       "name": "General Co. for Land Reclamation & Development",
       "name_ar": "العامة لاستصلاح الأراضي والتنمية",
-      "price": 216.33,
-      "prev_close": 208.2,
-      "change_pct": 3.9,
-      "volume": 70884,
-      "session_date": "2026-10-29"
+      "price": 215.84,
+      "prev_close": 216.33,
+      "change_pct": -0.23,
+      "volume": 15362,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "INFI.CA",
       "name": "Ismailia National Food Industries",
       "name_ar": "الإسماعيلية الوطنية للصناعات الغذائية",
-      "price": 115.02,
-      "prev_close": 113.9,
-      "change_pct": 0.98,
-      "volume": 75165,
-      "session_date": "2026-10-29"
+      "price": 113.17,
+      "prev_close": 115.02,
+      "change_pct": -1.61,
+      "volume": 85388,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "MBSC.CA",
       "name": "Misr Beni Suef Cement",
       "name_ar": "أسمنت مصر بني سويف",
-      "price": 301.98,
-      "prev_close": 297.0,
-      "change_pct": 1.68,
-      "volume": 133489,
-      "session_date": "2026-10-29"
+      "price": 299.01,
+      "prev_close": 301.98,
+      "change_pct": -0.98,
+      "volume": 110895,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "FAIT.CA",
       "name": "Faisal Islamic Bank of Egypt",
       "name_ar": "بنك فيصل الإسلامي المصري",
-      "price": 43.34,
-      "prev_close": 43.07,
-      "change_pct": 0.63,
-      "volume": 41228,
-      "session_date": "2026-10-29"
+      "price": 43.2,
+      "prev_close": 43.34,
+      "change_pct": -0.32,
+      "volume": 43222,
+      "session_date": "2026-11-01"
     },
     {
       "symbol": "AJWA.CA",
       "name": "Ajwa for Food Industries",
       "name_ar": "أجوا للصناعات الغذائية",
-      "price": 206.01,
-      "prev_close": 200.88,
-      "change_pct": 2.55,
-      "volume": 40969,
-      "session_date": "2026-10-29"
+      "price": 211.06,
+      "prev_close": 206.01,
+      "change_pct": 2.45,
+      "volume": 171761,
+      "session_date": "2026-11-01"
     }
   ]
 }
