@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:23:32+00:00",
+  "updated_at": "2026-11-12T23:42:57+00:00",
   "session_date": "2026-11-11",
   "demo": false,
   "stocks": [
@@ -638,8 +638,8 @@
       "name": "Suez Canal Bank",
       "name_ar": "بنك قناة السويس",
       "price": 34.013,
-      "prev_close": 48.75,
-      "change_pct": -30.23,
+      "prev_close": 32.5,
+      "change_pct": 4.66,
       "volume": 2229676,
       "session_date": "2026-11-11"
     },
