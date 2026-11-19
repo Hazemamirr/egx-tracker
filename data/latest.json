@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T15:46:16+00:00",
+  "updated_at": "2026-11-19T00:32:55+00:00",
   "session_date": "2026-11-17",
   "demo": false,
   "stocks": [
@@ -277,11 +277,7 @@
       "symbol": "SPMD.CA",
       "name": "Speed Medical",
       "name_ar": "سبيد ميديكال",
-      "price": 0.325,
-      "prev_close": 0.338,
-      "change_pct": -3.85,
-      "volume": 26261865,
-      "session_date": "2026-11-17"
+      "error": "only 0 daily bar(s) available"
     },
     {
       "symbol": "CERA.CA",
