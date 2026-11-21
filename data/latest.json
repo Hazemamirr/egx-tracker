@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T15:33:57+00:00",
+  "updated_at": "2026-11-21T14:45:21+00:00",
   "session_date": "2026-11-19",
   "demo": false,
   "stocks": [
@@ -287,7 +287,11 @@
       "symbol": "CERA.CA",
       "name": "Arab Ceramics (Aracemco)",
       "name_ar": "العربية للسيراميك - أراسيمكو",
-      "error": "only 0 daily bar(s) available"
+      "price": 1.04,
+      "prev_close": 1.04,
+      "change_pct": 0.0,
+      "volume": 13445411,
+      "session_date": "2026-11-19"
     },
     {
       "symbol": "GDWA.CA",
