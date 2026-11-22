@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T14:45:21+00:00",
+  "updated_at": "2026-11-22T14:40:58+00:00",
   "session_date": "2026-11-19",
   "demo": false,
   "stocks": [
@@ -247,11 +247,7 @@
       "symbol": "GBCO.CA",
       "name": "GB Corp",
       "name_ar": "جي بي كورب",
-      "price": 22.4,
-      "prev_close": 22.32,
-      "change_pct": 0.36,
-      "volume": 2404074,
-      "session_date": "2026-11-19"
+      "error": "only 0 daily bar(s) available"
     },
     {
       "symbol": "EAST.CA",
