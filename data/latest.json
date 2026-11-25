@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:53:44+00:00",
+  "updated_at": "2026-11-25T02:38:09+00:00",
   "session_date": "2026-11-23",
   "demo": false,
   "stocks": [
@@ -67,7 +67,11 @@
       "symbol": "OIH.CA",
       "name": "Orascom Investment Holding",
       "name_ar": "أوراسكوم للاستثمار القابضة",
-      "error": "only 0 daily bar(s) available"
+      "price": 1.64,
+      "prev_close": 1.48,
+      "change_pct": 10.81,
+      "volume": 26031405,
+      "session_date": "2026-11-23"
     },
     {
       "symbol": "ORHD.CA",
